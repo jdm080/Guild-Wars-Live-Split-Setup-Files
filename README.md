@@ -121,8 +121,9 @@ Use with <img width="174" height="30" alt="image" src="https://github.com/user-a
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you Enable COMBO This will combine both to track 1-20/r1 survivor+r2+r3
-Use with <img width="137" height="37" alt="image" src="https://github.com/user-attachments/assets/4d546c49-b944-4042-9ad7-adc694b3b3dc" /> and/or 
-<img width="150" height="29" alt="image" src="https://github.com/user-attachments/assets/e46dae55-da5c-46cd-b790-ef1c6714f9ac" />
+Use with 
+
+<img width="137" height="37" alt="image" src="https://github.com/user-attachments/assets/4d546c49-b944-4042-9ad7-adc694b3b3dc" /> and/or <img width="150" height="29" alt="image" src="https://github.com/user-attachments/assets/e46dae55-da5c-46cd-b790-ef1c6714f9ac" />
 
 
 
