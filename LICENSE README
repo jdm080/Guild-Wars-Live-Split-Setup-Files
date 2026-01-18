@@ -1,0 +1,39 @@
+# License / SPDX snippet (drop-in examples)
+
+Choose one license file and add a short notice in your README (or package metadata). The repository now contains LICENSE-MIT.
+
+License badge + one-liner (example)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE-MIT)
+
+One-line notice to place in your README:
+License: MIT (see LICENSE-MIT)
+
+SPDX/package metadata examples
+
+- npm / package.json
+  ```
+  {
+    "name": "your-package",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+  ```
+
+- NuGet / .nuspec (recommended modern approach)
+  ```
+  <metadata>
+    ...
+    <license type="expression">MIT</license>
+  </metadata>
+  ```
+
+- .NET SDK-style project (.csproj) for packaging
+  ```
+  <PropertyGroup>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+  ```
+
+Notes and tips
+- If you decide later to publish under CC0 instead, add LICENSE-CC0 and update the README notice.
+- Include the LICENSE file in any binary distributions (e.g., in a licenses/ folder inside your ZIP or installer).
