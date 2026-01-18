@@ -6,7 +6,7 @@ TLDR Setup if you've never used live splits before.
 
 Download Live splits and the corresponding setup files you want. Runners or EXP Tracker
 
-1.Launch Gw and launch live splits as admin.
+1.Launch Gw and launch live splits as admin.  If you want to use the Levelinguplayout please Go [Here](https://github.com/jdm080/Guild-Wars-Live-Split-Setup-Files/edit/main/README.md#levelinguplayout-steps) first.
   
 2.Load the default layout.(Right click the numbers that pop up-->load Layout-->From file--> <img width="154" height="33" alt="image" src="https://github.com/user-attachments/assets/7b1c8686-a467-4f76-803b-35e90ab9614f" /> or <img width="160" height="35" alt="image" src="https://github.com/user-attachments/assets/ff00f844-fb68-45b4-8808-ee127ab2e9d7" />. or setup your own.
 
@@ -38,11 +38,24 @@ Download Live splits and the corresponding setup files you want. Runners or EXP 
    <img width="215" height="219" alt="image" src="https://github.com/user-attachments/assets/5e3131ef-564a-4249-9996-8220ff39a354" />  or <img width="298" height="119" alt="image" src="https://github.com/user-attachments/assets/b703cf2b-c9a8-4f1b-83db-a680fc7a7ca0" />
 
 
-   ## Runners Settings
+## **LevelingUpLayout steps!**
+  
+Put <img width="195" height="35" alt="image" src="https://github.com/user-attachments/assets/2798eace-c7c3-46a0-9a58-43f0b031783e" />
 
-**   Reset on Death--> when you die it will pause the timer and then reset on any town visit.
+into the Live Splits Component Folder
+<img width="285" height="64" alt="image" src="https://github.com/user-attachments/assets/5d4f8adf-b753-4d26-a09b-10d20a43e93e" />
 
-   Map-Base Auto Reset--> this will enable your choosen locations to auto reset the timer.
+
+Once its in the folder, relaunch live splits. 
+<img width="610" height="128" alt="image" src="https://github.com/user-attachments/assets/33d053a6-e353-4ec4-9d01-fb2a306b91e5" />
+GO BACK TO TOP TO FINISH THE REGULAR SETUP!
+
+
+## Runners Settings
+
+**Reset on Death--> when you die it will pause the timer and then reset on any town visit.**
+
+  Map-Base Auto Reset--> this will enable your choosen locations to auto reset the timer.**
 
   Some Basic logic overview
      
@@ -52,7 +65,6 @@ Download Live splits and the corresponding setup files you want. Runners or EXP 
 
   Timer pauses in town.**
    
-
 
 ## EXP Tracker/Survivor/LDOA Tracker
 
@@ -72,22 +84,13 @@ If you Enable COMBO This will combine both to track 1-20/r1 survivor+r2+r3
 Use with <img width="137" height="37" alt="image" src="https://github.com/user-attachments/assets/4d546c49-b944-4042-9ad7-adc694b3b3dc" /> and/or 
 <img width="150" height="29" alt="image" src="https://github.com/user-attachments/assets/e46dae55-da5c-46cd-b790-ef1c6714f9ac" />
 
-## EXTRAS for the Survivor/LDOA setup.
-  
-iF YOU WISH TO SHOW SOME STATS ON THE TRACKER PLEASE GO 
-
-https://github.com/hawkerm/LiveSplit.ASLVarViewer/blob/master/Components/LiveSplit.ASLVarViewer.UI.dll
-
-Click the download button!  (Rightside of the screen)
-
-<img width="222" height="74" alt="image" src="https://github.com/user-attachments/assets/740ad3c8-89bd-4e08-91da-7b965f97c3dd" />
-
-Then move the DLL into the Live Splits Component Folder
-<img width="285" height="64" alt="image" src="https://github.com/user-attachments/assets/5d4f8adf-b753-4d26-a09b-10d20a43e93e" />
 
 
-Once its in the folder, relaunch live splits. then go back to edit layout. You'll now see this option to add to the editor. 
-<img width="610" height="128" alt="image" src="https://github.com/user-attachments/assets/33d053a6-e353-4ec4-9d01-fb2a306b91e5" />
+
+
+
+iF YOU WISH TO SHOW SOME STATS ON THE TRACKER PLEASE 
+Then go back to edit layout. You'll now see this option to add to the editor. 
 
 Go to layout settings--> go to the new tab <img width="87" height="26" alt="image" src="https://github.com/user-attachments/assets/7841dd73-9223-4375-a184-9677aaef9d20" />
 Label the section if you want/need and under value select what number you want to display! Status is a combo that shows current EXP and how much EXP to next milestone(based off your toggle!)
