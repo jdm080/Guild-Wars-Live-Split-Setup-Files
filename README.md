@@ -6,7 +6,7 @@ TLDR Setup if you've never used live splits before.
 
 Download Live splits and GW Live splits folder (Drop the runners setup/Exp Tracker folder into the Live splits components folder for less clicking later)
 
-1.Launch Gw and launch live splits as admin.  If you want to use the Levelinguplayout (lvl/LDOA/Survivor Tracker) please Do the instructions in the LevelingUpLayout section then come back!
+1.Launch Gw and launch live splits as admin.  (Do the instructions at LevelingUpLayout steps! if you are doing the lvl/LDOA/Survivor Tracker) then come back.
   
 2.Load the default layout.(Right click the numbers that pop up-->load Layout-->From file--> <img width="154" height="33" alt="image" src="https://github.com/user-attachments/assets/7b1c8686-a467-4f76-803b-35e90ab9614f" /> or <img width="160" height="35" alt="image" src="https://github.com/user-attachments/assets/ff00f844-fb68-45b4-8808-ee127ab2e9d7" />. or setup your own.
 
