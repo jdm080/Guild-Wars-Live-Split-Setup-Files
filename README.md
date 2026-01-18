@@ -1,6 +1,7 @@
 # Guild-Wars-Live-Split-Setup-Files
 
-**## setup**
+## Setup
+
 TLDR Setup if you've never used live splits before.
 
 Download Live splits and the corresponding setup files you want. Runners or EXP Tracker
@@ -81,11 +82,11 @@ Click the download button!  (Rightside of the screen)
 
 <img width="222" height="74" alt="image" src="https://github.com/user-attachments/assets/740ad3c8-89bd-4e08-91da-7b965f97c3dd" />
 
-Then move the DLL into the live splits folder
+Then move the DLL into the Live Splits Component Folder
+<img width="285" height="64" alt="image" src="https://github.com/user-attachments/assets/5d4f8adf-b753-4d26-a09b-10d20a43e93e" />
 
-<img width="395" height="168" alt="image" src="https://github.com/user-attachments/assets/c4773eed-2e0d-4eed-9d7b-858782de0dab" />
 
-Once its in the folder relaunch live splits. then go back to edit layout. You'll now see this option to add to the editor. 
+Once its in the folder, relaunch live splits. then go back to edit layout. You'll now see this option to add to the editor. 
 <img width="610" height="128" alt="image" src="https://github.com/user-attachments/assets/33d053a6-e353-4ec4-9d01-fb2a306b91e5" />
 
 Go to layout settings--> go to the new tab <img width="87" height="26" alt="image" src="https://github.com/user-attachments/assets/7841dd73-9223-4375-a184-9677aaef9d20" />
@@ -94,6 +95,11 @@ Label the section if you want/need and under value select what number you want t
 
 <img width="416" height="87" alt="image" src="https://github.com/user-attachments/assets/99d33812-7151-4a3d-be8c-29d2492afe26" />
 
+**This cannot track any death that happens when the timer isn't running!
+
+This is just a Straight read of your Total EXP. 
+
+I'm hoping to put in some manual overide (if people want it) to say start at this EXP* if anyone wants to just speed run the title from any level.**
 
 
 
