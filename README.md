@@ -48,26 +48,41 @@ into the Live Splits Component Folder
 
 
 Once its in the folder, relaunch live splits. 
-<img width="610" height="128" alt="image" src="https://github.com/user-attachments/assets/33d053a6-e353-4ec4-9d01-fb2a306b91e5" />
+
 GO BACK TO TOP TO FINISH THE REGULAR SETUP!
 
+
+## Adding extra information for EXP tracker(comeback Later)
+iF YOU WISH TO SHOW SOME STATS ON THE TRACKER/splits. 
+Then go back to edit layout. You'll now see this option to add to the editor.
+
+<img width="610" height="128" alt="image" src="https://github.com/user-attachments/assets/33d053a6-e353-4ec4-9d01-fb2a306b91e5" />
+
+Go to layout settings--> go to the new tab <img width="87" height="26" alt="image" src="https://github.com/user-attachments/assets/7841dd73-9223-4375-a184-9677aaef9d20" />
+Label the section if you want/need and under value select what number you want to display! Status is a combo that shows current EXP and how much EXP to next milestone(based off your toggle!)
+<img width="456" height="166" alt="image" src="https://github.com/user-attachments/assets/3fee50fa-2456-429e-a034-044bf88f3cc9" />
+
+<img width="416" height="87" alt="image" src="https://github.com/user-attachments/assets/99d33812-7151-4a3d-be8c-29d2492afe26" />
+
+**This cannot track any death that happens when the timer isn't running!
+
+This is just a Straight read of your Total EXP. 
+
+I'm hoping to put in some manual overide (if people want it) to say start at this EXP* if anyone wants to just speed run the title from any level.**
 
 ## Runners Settings
 
 **Reset on Death--> when you die it will pause the timer and then reset on any town visit.**
+**Map-Base Auto Reset--> this will enable your choosen locations to auto reset the timer.**
 
-  Map-Base Auto Reset--> this will enable your choosen locations to auto reset the timer.**
+Starts timer in any explorable.
 
-  Some Basic logic overview
-     
-  Starts timer in any explorable.
+Splits for every town and explorable.
 
-  Splits for every town and explorable
-
-  Timer pauses in town.**
+Timer pauseses in town.
    
 
-## EXP Tracker/Survivor/LDOA Tracker
+## EXP Tracker Settings
 
 3 Modes of the Tracker
   By Default ie (nothing else enabled). This will track 1-20. based off these values <img width="516" height="53" alt="image" src="https://github.com/user-attachments/assets/166cc93d-7eab-48d5-a055-b308bc24d04b" />
@@ -84,26 +99,6 @@ Use with <img width="174" height="30" alt="image" src="https://github.com/user-a
 If you Enable COMBO This will combine both to track 1-20/r1 survivor+r2+r3
 Use with <img width="137" height="37" alt="image" src="https://github.com/user-attachments/assets/4d546c49-b944-4042-9ad7-adc694b3b3dc" /> and/or 
 <img width="150" height="29" alt="image" src="https://github.com/user-attachments/assets/e46dae55-da5c-46cd-b790-ef1c6714f9ac" />
-
-
-
-
-
-
-iF YOU WISH TO SHOW SOME STATS ON THE TRACKER PLEASE 
-Then go back to edit layout. You'll now see this option to add to the editor. 
-
-Go to layout settings--> go to the new tab <img width="87" height="26" alt="image" src="https://github.com/user-attachments/assets/7841dd73-9223-4375-a184-9677aaef9d20" />
-Label the section if you want/need and under value select what number you want to display! Status is a combo that shows current EXP and how much EXP to next milestone(based off your toggle!)
-<img width="456" height="166" alt="image" src="https://github.com/user-attachments/assets/3fee50fa-2456-429e-a034-044bf88f3cc9" />
-
-<img width="416" height="87" alt="image" src="https://github.com/user-attachments/assets/99d33812-7151-4a3d-be8c-29d2492afe26" />
-
-**This cannot track any death that happens when the timer isn't running!
-
-This is just a Straight read of your Total EXP. 
-
-I'm hoping to put in some manual overide (if people want it) to say start at this EXP* if anyone wants to just speed run the title from any level.**
 
 
 
