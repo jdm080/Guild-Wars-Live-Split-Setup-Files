@@ -40,7 +40,8 @@ Download Live splits and the corresponding setup files you want. Runners or EXP 
 
 ## **LevelingUpLayout steps!**
   
-Put <img width="195" height="35" alt="image" src="https://github.com/user-attachments/assets/2798eace-c7c3-46a0-9a58-43f0b031783e" />
+Put (this is in the EXP Tracker Folder.)
+<img width="195" height="35" alt="image" src="https://github.com/user-attachments/assets/2798eace-c7c3-46a0-9a58-43f0b031783e" />
 
 into the Live Splits Component Folder
 <img width="285" height="64" alt="image" src="https://github.com/user-attachments/assets/5d4f8adf-b753-4d26-a09b-10d20a43e93e" />
