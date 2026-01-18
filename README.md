@@ -27,7 +27,7 @@ Download Live splits and the corresponding setup files you want. Runners or EXP 
 7. Now we load our splits or create your own. Select which ever one. <img width="386" height="58" alt="image" src="https://github.com/user-attachments/assets/ac47c2fa-cbcc-45b5-a345-c6f74ca7a709" />
   
 8. Right click edit splits-->
-     OK SO DEPENDING ON WHAT YOU ARE DOING deterimnes your next step.
+   OK SO DEPENDING ON WHAT YOU ARE DOING deterimnes your next step.
    if you loaded a split  you can either click activate-->settings or just click settings if activate is already greyed out <img width="157" height="35" alt="image" src="https://github.com/user-attachments/assets/0dbadcfb-5a18-4bc2-8928-2c31b359ec38" /> or <img width="164" height="33" alt="image" src="https://github.com/user-attachments/assets/2a4b113c-33ec-4252-a420-bd92589e09e7" />
 
    Once again browse to your .ASL file <img width="534" height="135" alt="image" src="https://github.com/user-attachments/assets/f4886cff-866c-4292-ab77-80b044d82d83" /> or <img width="82" height="36" alt="image" src="https://github.com/user-attachments/assets/2e51c8d3-c3da-4df4-879a-c4b6fa075d4d" />
@@ -40,8 +40,9 @@ Download Live splits and the corresponding setup files you want. Runners or EXP 
 
 ## **LevelingUpLayout steps!**
   
-Put (this is in the EXP Tracker Folder.)
+Put 
 <img width="195" height="35" alt="image" src="https://github.com/user-attachments/assets/2798eace-c7c3-46a0-9a58-43f0b031783e" />
+(this is in the EXP Tracker Folder.)
 
 into the Live Splits Component Folder
 <img width="285" height="64" alt="image" src="https://github.com/user-attachments/assets/5d4f8adf-b753-4d26-a09b-10d20a43e93e" />
