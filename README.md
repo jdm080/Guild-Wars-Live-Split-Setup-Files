@@ -4,7 +4,7 @@
 
 TLDR Setup if you've never used live splits before.
 
-Download Live splits and the corresponding setup files you want. Runners or EXP Tracker
+Download Live splits and GW Live splits folder (Drop the runners setup/Exp Tracker folder into the Live splits components folder for less clicking later)
 
 1.Launch Gw and launch live splits as admin.  If you want to use the Levelinguplayout (lvl/LDOA/Survivor Tracker) please Do the instructions in the LevelingUpLayout section then come back!
   
