@@ -107,6 +107,8 @@ Right click Live Splits, save Layout.
 
 Thats everything for a first time setup. If you want to understand how the script works on a more fundamental level continue to the next section.
 
+--------------------------------------
+
 ## EXP Tracker Logic/thoughts
 
 Currently the splits are setup in a way to track time to the level listed. Legendary Survivor will go to the next split (rank 2) after you hit rank 1 etc.. 
@@ -120,10 +122,11 @@ This allows some cool stats/values to be passed to the splits to be viewed. To m
 
 <img width="495" height="407" alt="image" src="https://github.com/user-attachments/assets/600764b9-3242-4b2d-a0cb-8faef53c1232" /> 
 
-They are pretty straight foward so the only one I'll explain is Status. its a combo field that shows current exp and how much exp to next split/milestone. <img width="176" height="26" alt="image" src="https://github.com/user-attachments/assets/63163903-9e48-48e5-8aad-83b90a163299" />
+These are pretty straight foward so the only one I'll explain is Status. It is a combo field that shows current exp and how much exp to next split/milestone. <img width="176" height="26" alt="image" src="https://github.com/user-attachments/assets/63163903-9e48-48e5-8aad-83b90a163299" />
 
-----------------------------------------------------------------------------------------------------------------
-ASL Var Viewer - Trouble Shooting
+---------------------------------
+
+$$ ASL Var Viewer - Trouble Shooting
 
 This portion is a little finicky if the script gets unloaded or if you try to load the ASL Var Viewer tab before attaching the script.
 
