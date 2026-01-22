@@ -1,6 +1,6 @@
 # Guild-Wars-Live-Split-Setup-Files
 <details>
-  <summary>EXP TRACKER/Survivor Setup</summary> 
+  <summary>Exp tracker/Survivor setup</summary> 
 
 Layout Setup
 
