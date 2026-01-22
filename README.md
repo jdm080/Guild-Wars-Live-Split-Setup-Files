@@ -204,7 +204,7 @@ Now we go to Edit layout by Right clicking Live Splits-->Edit Layout
 Layout settings will bring you to here. <img width="297" height="61" alt="image" src="https://github.com/user-attachments/assets/9cb17bd8-38f3-4803-978b-2cf25b3e811e" />
 
 
-Then Go to this tab and click Browse --> navigate to the .asl file inside the Runners setup folder <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> <img width="127" height="31" alt="image" src="https://github.com/user-attachments/assets/c2c38655-071e-44b9-a389-1a5a5f67fc4c" /> 
+Then go to the Scriptable Auto Splitter tab and click Browse --> navigate to the .asl file inside the Runners setup folder <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> <img width="127" height="31" alt="image" src="https://github.com/user-attachments/assets/c2c38655-071e-44b9-a389-1a5a5f67fc4c" /> 
 
 You'll see a bunch of settings come up. We'll ignore those for now and go to load up a split/run.
 
@@ -225,7 +225,7 @@ Now we will add the .asl to the split the same way we did to the layout. Right c
 
 <img width="91" height="33" alt="image" src="https://github.com/user-attachments/assets/5b445955-1579-40c0-bb3f-9f72490a31da" /> or <img width="168" height="42" alt="image" src="https://github.com/user-attachments/assets/a8d0b4d7-3536-4c20-8f31-f7e6284d96fe" />
 
-Click Activate-->settings or just settingsif already activated. Once again we'll we will browse to the same .asl file in the Runners setup folder.
+Click Activate-->settings or just settings if already activated. We'll we will browse to the same .asl file in the Runners setup folder.
 
 Now that we've setup live splits, lets swap the timer to the Game Timer. Game Time is used for some of the pause logic listed in the **Settings/Script Behavior section.**
 
