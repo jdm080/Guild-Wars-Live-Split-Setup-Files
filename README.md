@@ -1,130 +1,185 @@
 # Guild-Wars-Live-Split-Setup-Files
+<details>
+  <summary>EXP TRACKER/Survivor Setup</summary> 
 
-## Setup
+Layout Setup
 
-TLDR Setup if you've never used live splits before.
+Download Live splits and GW Live splits folder 
 
-Download Live splits and GW Live splits folder (Drop the runners setup/Exp Tracker folder into the Live splits components folder for less clicking later)
+https://livesplit.org/downloads/ + [GW Live Splits](https://github.com/jdm080/Guild-Wars-Live-Split-Setup-Files/raw/refs/heads/main/GW%20Live%20Splits%20Stuff.zip)
 
-1.Launch Gw and launch live splits as admin.  (Do the instructions at LevelingUpLayout steps! if you are doing the lvl/LDOA/Survivor Tracker) then come back.
+Extract/Unzip both folders and put them on your desktop. 
+
+<img width="172" height="112" alt="image" src="https://github.com/user-attachments/assets/0b99d452-d65d-4ac9-8387-27b715b68277" /> -----> <img width="164" height="91" alt="image" src="https://github.com/user-attachments/assets/81b091cb-8938-42b4-b5d4-b7f7c6d98a77" />
+
+Open the GW Live splits folder and copy the EXP tracker folder. Paste it into the LiveSplits\Components folder. *(if you are going to use the running script you can paste that folder alongside the exp folder or worry about it later)*
+
+<img width="256" height="59" alt="image" src="https://github.com/user-attachments/assets/6da9b9d3-5251-41f6-be4b-3acc734f8559" /> <img width="504" height="126" alt="image" src="https://github.com/user-attachments/assets/15c14ff5-ec66-4b62-9f35-43aa0d719deb" />
+
+Open the EXP Tracker folder and look for this .dll file <img width="614" height="36" alt="image" src="https://github.com/user-attachments/assets/62b95da7-c783-4455-a54e-50913bfe1201" />
+
+Copy this into the Live splits components folder.
+
+<img width="629" height="202" alt="image" src="https://github.com/user-attachments/assets/8d1ad62b-44fb-42a4-8458-1a196c88abba" />
+
+We can now start Live splits.
+
+<img width="275" height="76" alt="image" src="https://github.com/user-attachments/assets/d858ea07-f6b0-4781-8c31-97b90af4c3a5" />
+
+This is its default layout. We are going to load the layout I've made to make things easier. Right click the live splits bar. Open Layout--> from file. *feel free to make your own/edit mine after you see how it works*
+
+<img width="486" height="443" alt="image" src="https://github.com/user-attachments/assets/9bc5daf1-f265-4fe2-857d-bf3459be77d8" />
+
+Browse to the EXP Tracker folder 
+
+<img width="280" height="48" alt="image" src="https://github.com/user-attachments/assets/b96b8e11-876c-4bec-89fc-9bb161d11519" />
+
+You'll see this file here. Open this up.
+
+<img width="165" height="38" alt="image" src="https://github.com/user-attachments/assets/9389b489-e6e1-4e7c-98a3-3fde570c2840" />
+
+Live splits should look like this now.
+
+<img width="328" height="320" alt="image" src="https://github.com/user-attachments/assets/3c7b29f5-75c2-4251-9154-84c14e38a4d8" />
+
+Now we go to Edit layout--> Layout Settings
+
+<img width="551" height="355" alt="image" src="https://github.com/user-attachments/assets/b32ff62c-2727-4c69-ac44-a614a7a8b08c" /> --> <img width="96" height="32" alt="image" src="https://github.com/user-attachments/assets/e2394e39-8c15-4097-bb61-4bc1af2f782d" />
+
+Go to this Tab. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> and click Browse. Look for <img width="269" height="39" alt="image" src="https://github.com/user-attachments/assets/23e99918-8313-4f16-bd1b-aa372292d6d7" /> inside the EXP Tracker folder.
+
+You'll see a bunch of settings come up. <img width="273" height="104" alt="image" src="https://github.com/user-attachments/assets/17a517af-7460-40b9-b9e3-8f3897f35629" />
+
+Before continuing onward you'll need to know what challenge you'll be doing. (or just pick one as an example and decied later)
+ By default with neither legendary survivor/combo enabled(check-boxed fill in). This script will mark every level 2-20  ie Time to X Level.
+
+<img width="133" height="29" alt="image" src="https://github.com/user-attachments/assets/f56bc82d-7b00-4586-882e-9172f600d606" />
+<img width="318" height="128" alt="image" src="https://github.com/user-attachments/assets/06ce154c-2b09-4728-99ae-686c504fad3b" />
+
+For this setting use these splits <img width="124" height="31" alt="image" src="https://github.com/user-attachments/assets/256c17a8-1aeb-4c6f-aad8-86205cd90f44" /> or <img width="124" height="31" alt="image" src="https://github.com/user-attachments/assets/3e758fe3-7421-4e51-95f6-65c80cb4e028" />
+
+When Legendary Survivor is enabled. this will move the milestones in the script to only 3. r1/r2/r3 survivor. 
+
+ie only use with <img width="168" height="31" alt="image" src="https://github.com/user-attachments/assets/a53b903b-5488-47ca-b62b-504a1c04313c" />
+
+Combo enabled will combine both the default behavior and add on the r2/r3 survivor ranks. 
+
+<img width="164" height="33" alt="image" src="https://github.com/user-attachments/assets/6258305e-a197-4a0f-9b9e-65a73da02539" /> or <img width="156" height="30" alt="image" src="https://github.com/user-attachments/assets/3a3090b7-0924-4a64-a71f-ff2f6002ad02" />
+
+
+
+## EXP Tracker Splits setup
+
+Once you have your challenge selected. We'll load the corresponding split. Open Splits-->From File<img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
+
+<img width="329" height="311" alt="image" src="https://github.com/user-attachments/assets/7b78607c-042c-4de3-8d4e-8c17d829cfc4" />
+
+Now we will add the script to the splits similarly the way we did to the layout. Edit Splits--> From here you'll see either 
+
+<img width="91" height="33" alt="image" src="https://github.com/user-attachments/assets/5b445955-1579-40c0-bb3f-9f72490a31da" /> or <img width="168" height="42" alt="image" src="https://github.com/user-attachments/assets/a8d0b4d7-3536-4c20-8f31-f7e6284d96fe" />
+
+Click Activate-->settings or just settingsif already activated. Once again we'll we will browse to the same script (EXP tracker)
+
+Now that we've setup live splits we will swap the timer to the Game timer, as the real timer cannot be paused. Pausing happens in towns/during load screens. Right click live splits and go to Compare against-->Game time.
+
+<img width="347" height="129" alt="image" src="https://github.com/user-attachments/assets/946902fc-6d11-477c-8abe-eb088627be10" />
+
+Thats everything as far as first time setup. I would go ahead and save your split and layout. If you change splits or layout you will need to reattach the script to the new split/layout!
+
+
+
+</details>
+
+<details>
+  <summary>Running Setup</summary> 
+
+##Layout Setup
+
+Download Live splits and GW Live splits folder 
+
+https://livesplit.org/downloads/ + [GW Live Splits](https://github.com/jdm080/Guild-Wars-Live-Split-Setup-Files/raw/refs/heads/main/GW%20Live%20Splits%20Stuff.zip)
+
+Extract/Unzip both folders and put them on your desktop. 
+
+<img width="172" height="112" alt="image" src="https://github.com/user-attachments/assets/0b99d452-d65d-4ac9-8387-27b715b68277" /> -----> <img width="164" height="91" alt="image" src="https://github.com/user-attachments/assets/81b091cb-8938-42b4-b5d4-b7f7c6d98a77" />
+
+Open the GW Live splits folder and copy the Runners setup folder. Paste it into the LiveSplits\Components folder. 
+<img width="262" height="204" alt="image" src="https://github.com/user-attachments/assets/4e1e7ecd-e672-4415-b23b-303bd9e47ef2" />
+
+
+We can now start Live splits.
+
+<img width="275" height="76" alt="image" src="https://github.com/user-attachments/assets/d858ea07-f6b0-4781-8c31-97b90af4c3a5" />
+
+This is its default layout. We are going to load the layout I've made to make things easier. Right click the live splits bar. Open Layout--> from file. *feel free to make your own/edit mine after you see how it works*
+
+<img width="486" height="443" alt="image" src="https://github.com/user-attachments/assets/9bc5daf1-f265-4fe2-857d-bf3459be77d8" />
+
+Browse to the Runners setup folder 
+
+<img width="380" height="39" alt="image" src="https://github.com/user-attachments/assets/33db037e-5c30-4556-b860-ae39496d988d" />
+
+You'll see this file here. Open this up.
+
+<img width="153" height="33" alt="image" src="https://github.com/user-attachments/assets/230f3a05-275a-4046-a46e-369ea5f4896d" />
+
+Live splits should look like this now.
+
+<img width="274" height="376" alt="image" src="https://github.com/user-attachments/assets/806aa840-8213-4583-9c76-1c48b2e736ba" />
+
+Now we go to Edit layout--> Layout Settings
+
+<img width="548" height="357" alt="image" src="https://github.com/user-attachments/assets/cb2f1902-abdd-4116-a1b0-edb0489af6d7" /> ---> <img width="96" height="32" alt="image" src="https://github.com/user-attachments/assets/e2394e39-8c15-4097-bb61-4bc1af2f782d" />
+
+Go to this Tab. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> and click Browse. Look for <img width="127" height="31" alt="image" src="https://github.com/user-attachments/assets/c2c38655-071e-44b9-a389-1a5a5f67fc4c" /> inside the Runners setup folder.
+
+You'll see a bunch of settings come up. We'll ignore those for now and go to load up a split/run
+
+<img width="200" height="229" alt="image" src="https://github.com/user-attachments/assets/3a981af3-1b14-4872-8bbe-9960fe17e92e" />
+
+
+## Splits setup
+
+Once you have your run/Test(I'll load up the droks split). We'll load the corresponding split. Open Splits-->From File<img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
+
+<img width="270" height="359" alt="image" src="https://github.com/user-attachments/assets/505ed712-d974-437c-8f4a-c9f1c65e4df6" />
+
+Now we will add the script to the splits similarly the way we did to the layout. Edit Splits--> From here you'll see either 
+
+<img width="91" height="33" alt="image" src="https://github.com/user-attachments/assets/5b445955-1579-40c0-bb3f-9f72490a31da" /> or <img width="168" height="42" alt="image" src="https://github.com/user-attachments/assets/a8d0b4d7-3536-4c20-8f31-f7e6284d96fe" />
+
+Click Activate-->settings or just settingsif already activated. Once again we'll we will browse to the same script (Runners setup)
+
+Now that we've setup live splits we will swap the timer to the Game timer, as the real timer cannot be paused. Pausing happens in towns/during load screens. Right click live splits and go to Compare against-->Game time.
+
+<img width="347" height="129" alt="image" src="https://github.com/user-attachments/assets/946902fc-6d11-477c-8abe-eb088627be10" />
+
+Thats everything as far as first time setup. I would go ahead and save your split and layout. If you change splits or layout you will need to reattach the script to those places!
+
+Happy Running!
+
+
+## Settings/Script Behavior
+ You can change the settings in the splits layout a little quicker so I would suggest doing it there.
+
+<img width="98" height="24" alt="image" src="https://github.com/user-attachments/assets/24a98b66-d85d-452d-8da2-09e6cd819ee5" /> This will pause the timer when you die and then reset the timer when you zone back into any town.
+
+<img width="134" height="18" alt="image" src="https://github.com/user-attachments/assets/31c7ed57-4eb6-4291-8944-e415adc0ee4c" /> This will enable timer auto reset for your enabled maps. ie lets say you know you aren't making the run in time you can just teleport back to Lions Arch and it will just reset the timer for you.
+
+Some Logic
+  Timer auto starts on zoning into an explorable. Zoning/teleporting into a town will cause a split/go to the objective. however will pause the game timer. Also pauses game time during load screens.
   
-2.Load the default layout.(Right click the numbers that pop up-->load Layout-->From file--> 
-
-<img width="154" height="33" alt="image" src="https://github.com/user-attachments/assets/7b1c8686-a467-4f76-803b-35e90ab9614f" /> or <img width="160" height="35" alt="image" src="https://github.com/user-attachments/assets/ff00f844-fb68-45b4-8808-ee127ab2e9d7" />. or setup your own.
-
-3.Right Click Live splits-->edit layout-->click 
-
-<img width="60" height="42" alt="image" src="https://github.com/user-attachments/assets/c5e7b1d5-d185-4e9c-a8e1-3a31953f1ecd" /> then <img width="364" height="75" alt="image" src="https://github.com/user-attachments/assets/efbd31c6-a2e9-4fc0-bc45-a590026f4974" />.
-
-  Once you see 
+  It will keep going until it runs out of splits and the complete the list. so its fairly flexible if you want to make your own split just add in the explorable and town names in order.
+  For timing purposes the script only reacts for the map based resets. so if your split is labeled wrong it will go to shit.
   
-  <img width="138" height="26" alt="image" src="https://github.com/user-attachments/assets/a8f06599-8ca7-4337-8315-c8cd2d6e5448" /> in the editor
 
-4. CLick <img width="101" height="31" alt="image" src="https://github.com/user-attachments/assets/0cbc4215-a3ea-4523-bd2f-5ab1baee0ebd" /> then go to the tab <img width="131" height="23" alt="image" src="https://github.com/user-attachments/assets/7191efbd-db57-4b35-990a-6e3c98855188" />
 
-   Browse-->to your .asl File
+ 
 
-   <img width="534" height="135" alt="image" src="https://github.com/user-attachments/assets/f4886cff-866c-4292-ab77-80b044d82d83" /> or <img width="82" height="36" alt="image" src="https://github.com/user-attachments/assets/2e51c8d3-c3da-4df4-879a-c4b6fa075d4d" />
 
-   Click OK twice to get back splits. RIGHT CLICK AND SAVE YOUR LAYOUT.
+<Runners setup>
 
-6. Right CLick -->(if you want any of the auto pause features to work ie laoding/town timer pause) otherwise skip
    
-   <img width="354" height="132" alt="image" src="https://github.com/user-attachments/assets/85cd7176-4c66-4b41-855d-f4fb28ceb436" />
-
-
-8. Now we load our splits or create your own. Select which ever one. <img width="386" height="58" alt="image" src="https://github.com/user-attachments/assets/ac47c2fa-cbcc-45b5-a345-c6f74ca7a709" />
-  
-9. Right click edit splits-->
-
-  click activate-->settings or just click settings if activate is already greyed out 
-  
-  <img width="157" height="35" alt="image" src="https://github.com/user-attachments/assets/0dbadcfb-5a18-4bc2-8928-2c31b359ec38" /> or <img width="164" height="33" alt="image" src="https://github.com/user-attachments/assets/2a4b113c-33ec-4252-a420-bd92589e09e7" />
-
-   Once again browse to your .ASL file 
-   
-   <img width="534" height="135" alt="image" src="https://github.com/user-attachments/assets/f4886cff-866c-4292-ab77-80b044d82d83" /> or <img width="82" height="36" alt="image" src="https://github.com/user-attachments/assets/2e51c8d3-c3da-4df4-879a-c4b6fa075d4d" />
-
-
-   OK now we should see some settings pop in depending on which ASL file you chose.
-
-   <img width="215" height="219" alt="image" src="https://github.com/user-attachments/assets/5e3131ef-564a-4249-9996-8220ff39a354" />  or <img width="298" height="119" alt="image" src="https://github.com/user-attachments/assets/b703cf2b-c9a8-4f1b-83db-a680fc7a7ca0" />
-
-
-   **As a reminder you'll need to load the asl file for every new split you load**
-
-   For runners you are basically done skip to the **Runners setting** to learn a little bit of how it works!
-
-   For the EXP tracking go to **Adding extra information for EXP tracker**
-
-
-## **LevelingUpLayout steps!**
-  
-Put 
-<img width="195" height="35" alt="image" src="https://github.com/user-attachments/assets/2798eace-c7c3-46a0-9a58-43f0b031783e" />
-(this is in the EXP Tracker Folder.)
-
-into the Live Splits Component Folder
-<img width="285" height="64" alt="image" src="https://github.com/user-attachments/assets/5d4f8adf-b753-4d26-a09b-10d20a43e93e" />
-
-
-Once its in the folder, relaunch live splits. 
-
-GO BACK TO TOP TO FINISH THE REGULAR SETUP!
-
-
-## Adding extra information for EXP tracker(comeback Later)
-iF YOU WISH TO SHOW SOME STATS ON THE TRACKER/splits. 
-Then go back to edit layout. You'll now see this option to add to the editor.
-
-<img width="610" height="128" alt="image" src="https://github.com/user-attachments/assets/33d053a6-e353-4ec4-9d01-fb2a306b91e5" />
-
-Go to layout settings--> go to the new tab <img width="87" height="26" alt="image" src="https://github.com/user-attachments/assets/7841dd73-9223-4375-a184-9677aaef9d20" />
-Label the section if you want/need and under value select what number you want to display! Status is a combo that shows current EXP and how much EXP to next milestone(based off your toggle!)
-<img width="456" height="166" alt="image" src="https://github.com/user-attachments/assets/3fee50fa-2456-429e-a034-044bf88f3cc9" />
-
-<img width="416" height="87" alt="image" src="https://github.com/user-attachments/assets/99d33812-7151-4a3d-be8c-29d2492afe26" />
-
-**This cannot track any death that happens when the timer isn't running!
-
-If the numbers are not updating remove it from the layout editor and re-add another ASLR viewer! (it can be finicky where if you have reload scripts sometimes it breaks)
-
-This is just a Straight read of your Total EXP. 
-
-I'm hoping to put in some manual overide (if people want it) to say start at this EXP* if anyone wants to just speed run the title from any level.**
-
-## Runners Settings
-
-**Reset on Death--> when you die it will pause the timer and then reset on any town visit.**
-**Map-Base Auto Reset--> this will enable your choosen locations to auto reset the timer.**
-
-Starts timer in any explorable.
-
-Splits for every town and explorable.
-
-Timer pauseses in town.
-   
-
-## EXP Tracker Settings
-
-3 Modes of the Tracker
-
-By Default ie (nothing else enabled). This will track 1-20. based off these values <img width="516" height="53" alt="image" src="https://github.com/user-attachments/assets/166cc93d-7eab-48d5-a055-b308bc24d04b" />
-  
-Use with <img width="122" height="41" alt="image" src="https://github.com/user-attachments/assets/591fd76e-0908-4506-bb12-422872bc85e3" /> or <img width="118" height="34" alt="image" src="https://github.com/user-attachments/assets/706f7fc3-14c9-4720-84c7-1c0a8397f460" />
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-If you enable Legendary Survivor  This move the goals to <img width="238" height="24" alt="image" src="https://github.com/user-attachments/assets/e4e35f97-064f-44c5-8f81-f4b546ff86f7" />
-
-Use with <img width="174" height="30" alt="image" src="https://github.com/user-attachments/assets/ee43dd17-ce41-46fe-9509-ee5e02d1c3c9" />
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you Enable COMBO This will combine both to track 1-20/r1 survivor+r2+r3
-Use with 
-
-<img width="137" height="37" alt="image" src="https://github.com/user-attachments/assets/4d546c49-b944-4042-9ad7-adc694b3b3dc" /> and/or <img width="150" height="29" alt="image" src="https://github.com/user-attachments/assets/e46dae55-da5c-46cd-b790-ef1c6714f9ac" />
-
 
 
 
