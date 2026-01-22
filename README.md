@@ -57,7 +57,7 @@ You'll see a bunch of settings come up if it loaded the .asl file correctly. We 
 
 ----------------------------------
 
-| | Default | Legendary Survivor | Combo |
+| | Default/Level 1-20/LDOA | Legendary Survivor | Combo |
 |-----|----|-----|----|
 |What it forces splits at| Level 1-20/LDOA | Rank 1-3 Survivor only | Level 1-20+r2-3 Survivor |
 |Settings|  <img width="255" height="40" alt="image" src="https://github.com/user-attachments/assets/f8acd1d4-635a-4113-853a-fe994676d69d" /> | <img width="270" height="44" alt="image" src="https://github.com/user-attachments/assets/7e8fcd6f-69f8-43c1-99ae-6f672cd61b73" /> |<img width="264" height="39" alt="image" src="https://github.com/user-attachments/assets/8cb6a968-281f-40f3-a769-3caf26fff56b" /> |
