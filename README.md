@@ -4,7 +4,7 @@
 
 Layout Setup
 
-Download Live splits and GW Live splits folder 
+Download Live Splits and GW Live splits folder 
 
 https://livesplit.org/downloads/ + [GW Live Splits](https://github.com/jdm080/Guild-Wars-Live-Split-Setup-Files/raw/refs/heads/main/GW%20Live%20Splits%20Stuff.zip)
 
