@@ -49,15 +49,17 @@ Now we go to Edit layout by Right clicking Live Splits-->Edit Layout
 Layout settings will bring you here.
 <img width="297" height="61" alt="image" src="https://github.com/user-attachments/assets/d578197c-ea42-4bf2-bc81-e50a418c3ba2" />
 
-Then Go to this Tab. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> and click Browse. Navigate to the .asl file inside the EXP Tracker folder. <img width="269" height="39" alt="image" src="https://github.com/user-attachments/assets/23e99918-8313-4f16-bd1b-aa372292d6d7" /> 
+Then Go to this tab. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> and click Browse. Navigate to the .asl file inside the EXP Tracker folder. <img width="269" height="39" alt="image" src="https://github.com/user-attachments/assets/23e99918-8313-4f16-bd1b-aa372292d6d7" /> 
 
-You'll see a bunch of settings come up. If they show up the .asl file is loaded correctly. We won't change any settings until we load the split/challenge. I've matched which Challenge go with what splits and what it calculates each split to be.
+You'll see a bunch of settings come up if it loaded the .asl file correctly. We won't change any settings until we load the split/challenge. I've made a table for which Challenge go with what splits and settings go together.
 
 <img width="273" height="104" alt="image" src="https://github.com/user-attachments/assets/17a517af-7460-40b9-b9e3-8f3897f35629" />
 
+----------------------------------
+
 | | Default | Legendary Survivor | Combo |
 |-----|----|-----|----|
-|What it forces splits at| Level 2-20/LDOA | Rank 1-3 Survivor only | Level 2-20+r2-3 Survivor |
+|What it forces splits at| Level 1-20/LDOA | Rank 1-3 Survivor only | Level 1-20+r2-3 Survivor |
 |Settings|  <img width="255" height="40" alt="image" src="https://github.com/user-attachments/assets/f8acd1d4-635a-4113-853a-fe994676d69d" /> | <img width="270" height="44" alt="image" src="https://github.com/user-attachments/assets/7e8fcd6f-69f8-43c1-99ae-6f672cd61b73" /> |<img width="264" height="39" alt="image" src="https://github.com/user-attachments/assets/8cb6a968-281f-40f3-a769-3caf26fff56b" /> |
 |What split files (.lss) work with these settings| <img width="127" height="40" alt="image" src="https://github.com/user-attachments/assets/835f3093-64ab-4cf3-b507-8a61b5d0f1d7" /><img width="117" height="28" alt="image" src="https://github.com/user-attachments/assets/546e2d23-700e-46dd-bca3-347ea2edc060" /> | <img width="167" height="33" alt="image" src="https://github.com/user-attachments/assets/6dee589a-34b5-4932-9f76-8c9ba8979d28" /> | <img width="136" height="28" alt="image" src="https://github.com/user-attachments/assets/0cbafe52-f6c1-4534-8eb6-f80bcd0c443f" /> <img width="138" height="32" alt="image" src="https://github.com/user-attachments/assets/7a33d6a0-6432-4ce2-acc6-0410b044e24c" /> |
 | Expected number of Splits/Milestones | <img width="505" height="58" alt="image" src="https://github.com/user-attachments/assets/d0c25659-fc48-4633-a147-9dc53acd55a3" /> | <img width="240" height="27" alt="image" src="https://github.com/user-attachments/assets/e5f48633-d3e4-422e-8605-2b431ac9d2ca" /> | <img width="500" height="55" alt="image" src="https://github.com/user-attachments/assets/db86e629-5085-44fd-9a4d-049827bc0e18" /> |
@@ -66,7 +68,7 @@ You'll see a bunch of settings come up. If they show up the .asl file is loaded 
 
 Lets Load our split now. If you get confused refer to the chart above to match your settings after you load the split. *(To get back to settings, right click--> Edit Splits-->Settings)*
 
-Once you have your challenge or example selected. We'll load the corresponding split. Right click Live Splits--> Open Splits-->From File-->Choose your split/.lss file <img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
+Once you have your challenge or pick an example  to setup. We'll load the corresponding split. Right click Live Splits--> Open Splits-->From File-->Choose your split/.lss file <img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
 
 <img width="211" height="141" alt="image" src="https://github.com/user-attachments/assets/c76540e3-c971-46ef-85e7-11eda481ad51" />
 
@@ -74,13 +76,14 @@ I've loaded the LDOA_only split as an example.
 
 <img width="329" height="311" alt="image" src="https://github.com/user-attachments/assets/7b78607c-042c-4de3-8d4e-8c17d829cfc4" />
 
-Now we will add the .asl to the split the same way we did to the layout. Right Click Live Splits-->Edit Splits--> From here you'll see either 
+Now we will add the .asl to the split the same way we did to the layout. Right click Live Splits-->Edit Splits--> From here you'll see either 
 
 <img width="91" height="33" alt="image" src="https://github.com/user-attachments/assets/5b445955-1579-40c0-bb3f-9f72490a31da" /> or <img width="168" height="42" alt="image" src="https://github.com/user-attachments/assets/a8d0b4d7-3536-4c20-8f31-f7e6284d96fe" />
 
 Click Activate-->settings or just settings if already activated. Once again we'll we will browse to the same .asl file in EXP Tracker folder.
 
 
+Match your splits and settings together so it transitions correctly.
 Refer back to the chart above to match the loaded split with the correct settings! 
 
 Here is the LDOA_only split as an example. So timer starts and you are level 1, once you hit lvl 2 the split moves to the level 3 split.
@@ -90,18 +93,66 @@ With these settings. *(Default)*
 <img width="278" height="71" alt="image" src="https://github.com/user-attachments/assets/4be4e315-dea0-4642-a643-9f63d178678c" />
 
 
-Now that we've setup live splits we will swap the timer to the Game timer, as the real timer cannot be paused. Pausing happens in towns/during load screens. Right click live splits and go to Compare against-->Game time.
+Now that we've setup live splits, lets swap the timer to the Game Timer. Game Timer Game Timer is used for some of the pause logic listed in the **EXP Tracker Logic/thoughts** section. Right click Live Splits-->Compare Against-->Game Time
 
 <img width="347" height="129" alt="image" src="https://github.com/user-attachments/assets/946902fc-6d11-477c-8abe-eb088627be10" />
 
-Currently the splits are setup in a way to track time to the level listed. Legendary Survivor will go to the next split (rank 2) after you hit rank 1 etc.. 
-if you wish to track time at level instead. you can edit the splits and subtract 1 level from each section (except for the legendary survivor) and have the splits label 1-19.
-When you change your splits or layout you will need to reattach the script to the new split/layout!
+After all that we will go ahead and save your splits and layout. This is a good time if you wish to create you own layout and splits, use save as instead.
 
-After all that we will go ahead and save your splits and layout. This is a good time if you wish to create you own layout and splits, do a save as for each instead.
 Right click Live Splits, save splits. 
 
 Right click Live Splits, save Layout.
+
+<img width="195" height="426" alt="image" src="https://github.com/user-attachments/assets/cc5c5ff4-81f5-47c5-bb59-e6282f590f37" />
+
+Thats everything for a first time setup. If you want to understand how the script works on a more fundamental level continue to the next section.
+
+## EXP Tracker Logic/thoughts
+
+Currently the splits are setup in a way to track time to the level listed. Legendary Survivor will go to the next split (rank 2) after you hit rank 1 etc.. 
+if you wish to track time at level instead. you can edit the splits and subtract 1 level from each section (except for the legendary survivor) and have the splits label 1-19.
+When you change your splits or layout you will need to reattach the script to the new split/layout! This will not be able to tell how many deaths you have or any deaths that happen when the timer is not running unfortunatly.
+Only pauses timer when you log out of the character and during loading screens.
+
+## ASL Var Viewer - What it does.
+
+This allows some cool stats/values to be passed to the splits to be viewed. To modify what is being shown Right click Live Splits-->Edit Layout-->Layout Settings-->ASL Var Viewer Tab
+
+<img width="495" height="407" alt="image" src="https://github.com/user-attachments/assets/600764b9-3242-4b2d-a0cb-8faef53c1232" /> 
+
+They are pretty straight foward so the only one I'll explain is Status. its a combo field that shows current exp and how much exp to next split/milestone. <img width="176" height="26" alt="image" src="https://github.com/user-attachments/assets/63163903-9e48-48e5-8aad-83b90a163299" />
+
+----------------------------------------------------------------------------------------------------------------
+ASL Var Viewer - Trouble Shooting
+
+This portion is a little finicky if the script gets unloaded or if you try to load the ASL Var Viewer tab before attaching the script.
+
+The easiest way to get this to work again is to remove them from the Layout Editor. *(Right click Live Splits-->edit layout)*
+
+<img width="190" height="103" alt="image" src="https://github.com/user-attachments/assets/d1baf710-d57d-4017-ba31-bab5a95f8338" />
+
+Highlight/Select the ASL Var Viewer in the Layout Editor and then click the <img width="37" height="41" alt="image" src="https://github.com/user-attachments/assets/34ce93f2-c0c4-46a5-857e-8cd34ec280a1" />.
+
+<img width="190" height="103" alt="image" src="https://github.com/user-attachments/assets/d1baf710-d57d-4017-ba31-bab5a95f8338" />
+
+**Double check the script/.asl file is loaded in both the Layout and Splits sections.**
+
+Right click --->Edit Layout-->layout settings-->scriptable auto splitter-->verify asl file and settings boxes loaded.
+
+Right click --->Edit Splits-->settings--> verify asl file and settings boxes loaded.
+
+Once that is done go back to the Layout Editor and we will click the <img width="54" height="45" alt="image" src="https://github.com/user-attachments/assets/869e5938-b68d-4c80-8969-32e2197ee725" />
+
+Information--> ASL Var Viewer <img width="351" height="31" alt="image" src="https://github.com/user-attachments/assets/66d1dbd6-7199-4d01-9755-99209400125d" />
+
+You should have a new one in the editor list. *(Add as many as you want to show)
+
+<img width="170" height="111" alt="image" src="https://github.com/user-attachments/assets/e094283f-1cfa-4496-a6fc-c8aea4400d16" />
+
+
+
+
+ 
 
 Thats everything as far as first time setup. Enjoy!
 
