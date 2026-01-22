@@ -81,7 +81,7 @@ Now we will add the .asl to the split the same way we did to the layout. Right c
 
 <img width="91" height="33" alt="image" src="https://github.com/user-attachments/assets/5b445955-1579-40c0-bb3f-9f72490a31da" /> or <img width="168" height="42" alt="image" src="https://github.com/user-attachments/assets/a8d0b4d7-3536-4c20-8f31-f7e6284d96fe" />
 
-Click Activate-->settings or just settings if already activated. Once again we'll we will browse to the same .asl file in EXP Tracker folder.
+Click Activate-->settings or just settings if already activated. Once again we will browse to the same .asl file in EXP Tracker folder.
 
 
 Match your splits and settings together so it transitions correctly.
