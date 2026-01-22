@@ -213,11 +213,12 @@ You'll see a bunch of settings come up. We'll ignore those for now and go to loa
 
 ## Splits setup
 
-Once you know what run or test split you want. Right click Live Splits--> Open Splits-->From File-->Choose your split/.lss file
+Once you know what run or test split you want. Right click Live Splits--> Open Splits-->From File-->Choose your split/.lss file.
 
-(I've loaded up the droks split). 
 
 <img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
+
+(I've loaded up the droks split). 
 
 <img width="270" height="359" alt="image" src="https://github.com/user-attachments/assets/505ed712-d974-437c-8f4a-c9f1c65e4df6" />
 
