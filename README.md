@@ -12,7 +12,7 @@ Extract/Unzip both folders and put them on your desktop.
 
 <img width="172" height="112" alt="image" src="https://github.com/user-attachments/assets/0b99d452-d65d-4ac9-8387-27b715b68277" /> -----> <img width="164" height="91" alt="image" src="https://github.com/user-attachments/assets/81b091cb-8938-42b4-b5d4-b7f7c6d98a77" />
 
-Open the GW Live splits folder and copy the EXP tracker folder. Paste it into the LiveSplits\Components folder. *(if you are going to use the running script you can paste that folder alongside the exp folder or worry about it later)*
+Open the GW Live Splits folder and copy the EXP tracker folder. Paste it into the LiveSplits\Components folder. *(if you are going to use the running script you can paste that folder alongside the exp folder or worry about it later)*
 
 <img width="256" height="59" alt="image" src="https://github.com/user-attachments/assets/6da9b9d3-5251-41f6-be4b-3acc734f8559" /> <img width="504" height="126" alt="image" src="https://github.com/user-attachments/assets/15c14ff5-ec66-4b62-9f35-43aa0d719deb" />
 
@@ -46,10 +46,11 @@ Now we go to Edit layout by Right clicking Live Splits-->Edit Layout
 
 <img width="551" height="355" alt="image" src="https://github.com/user-attachments/assets/b32ff62c-2727-4c69-ac44-a614a7a8b08c" /> --> <img width="96" height="32" alt="image" src="https://github.com/user-attachments/assets/e2394e39-8c15-4097-bb61-4bc1af2f782d" />
 
-Layout settings will bring you here.
+Layout settings will bring you to here.
+
 <img width="297" height="61" alt="image" src="https://github.com/user-attachments/assets/d578197c-ea42-4bf2-bc81-e50a418c3ba2" />
 
-Then Go to this tab. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> and click Browse. Navigate to the .asl file inside the EXP Tracker folder. <img width="269" height="39" alt="image" src="https://github.com/user-attachments/assets/23e99918-8313-4f16-bd1b-aa372292d6d7" /> 
+Then Go to this tab and click Browse --> navigate to the .asl file inside the EXP Tracker folder. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> <img width="269" height="39" alt="image" src="https://github.com/user-attachments/assets/23e99918-8313-4f16-bd1b-aa372292d6d7" /> 
 
 You'll see a bunch of settings come up if it loaded the .asl file correctly. We won't change any settings until we load the split/challenge. I've made a table for which Challenge go with what splits and settings go together.
 
@@ -154,7 +155,7 @@ You should have a new one in the editor list. *(Add as many as you want to show)
 
 <img width="170" height="111" alt="image" src="https://github.com/user-attachments/assets/e094283f-1cfa-4496-a6fc-c8aea4400d16" />
 
-Thats everything as far as first time setup. Enjoy!
+Enjoy!
 
 </details>
 
@@ -171,23 +172,24 @@ Extract/Unzip both folders and put them on your desktop.
 
 <img width="172" height="112" alt="image" src="https://github.com/user-attachments/assets/0b99d452-d65d-4ac9-8387-27b715b68277" /> -----> <img width="164" height="91" alt="image" src="https://github.com/user-attachments/assets/81b091cb-8938-42b4-b5d4-b7f7c6d98a77" />
 
-Open the GW Live splits folder and copy the Runners setup folder. Paste it into the LiveSplits\Components folder. 
+Open the GW Live Splits folder and copy the Runners setup folder. Paste it into the LiveSplits\Components folder.
+
 <img width="262" height="204" alt="image" src="https://github.com/user-attachments/assets/4e1e7ecd-e672-4415-b23b-303bd9e47ef2" />
 
 
-We can now start Live splits.
+Launch\double click Live Splits.
 
 <img width="275" height="76" alt="image" src="https://github.com/user-attachments/assets/d858ea07-f6b0-4781-8c31-97b90af4c3a5" />
 
-This is its default layout. We are going to load the layout I've made to make things easier. Right click the live splits bar. Open Layout--> from file. *feel free to make your own/edit mine after you see how it works*
+That little black bar is the default layout. We are going to load the layout I've made to make things easier. Right click the Live Splits bar, Open Layout--> From File. (feel free to make your own/edit mine after you see how it works)
 
 <img width="486" height="443" alt="image" src="https://github.com/user-attachments/assets/9bc5daf1-f265-4fe2-857d-bf3459be77d8" />
 
-Browse to the Runners setup folder 
+Browse to the Runners setup folder.
 
 <img width="380" height="39" alt="image" src="https://github.com/user-attachments/assets/33db037e-5c30-4556-b860-ae39496d988d" />
 
-You'll see this file here. Open this up.
+You'll see this file here. Double click it or select the .lsl and click open.
 
 <img width="153" height="33" alt="image" src="https://github.com/user-attachments/assets/230f3a05-275a-4046-a46e-369ea5f4896d" />
 
@@ -195,46 +197,63 @@ Live Splits should look like this now.
 
 <img width="274" height="376" alt="image" src="https://github.com/user-attachments/assets/806aa840-8213-4583-9c76-1c48b2e736ba" />
 
-Now we go to Edit layout--> Layout Settings
+Now we go to Edit layout by Right clicking Live Splits-->Edit Layout
 
 <img width="548" height="357" alt="image" src="https://github.com/user-attachments/assets/cb2f1902-abdd-4116-a1b0-edb0489af6d7" /> ---> <img width="96" height="32" alt="image" src="https://github.com/user-attachments/assets/e2394e39-8c15-4097-bb61-4bc1af2f782d" />
 
-Go to this Tab. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> and click Browse. Look for <img width="127" height="31" alt="image" src="https://github.com/user-attachments/assets/c2c38655-071e-44b9-a389-1a5a5f67fc4c" /> inside the Runners setup folder.
+Layout settings will bring you to here. <img width="297" height="61" alt="image" src="https://github.com/user-attachments/assets/9cb17bd8-38f3-4803-978b-2cf25b3e811e" />
 
-You'll see a bunch of settings come up. We'll ignore those for now and go to load up a split/run
+
+Then Go to this tab and click Browse --> navigate to the .asl file inside the Runners setup folder <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> <img width="127" height="31" alt="image" src="https://github.com/user-attachments/assets/c2c38655-071e-44b9-a389-1a5a5f67fc4c" /> 
+
+You'll see a bunch of settings come up. We'll ignore those for now and go to load up a split/run.
 
 <img width="200" height="229" alt="image" src="https://github.com/user-attachments/assets/3a981af3-1b14-4872-8bbe-9960fe17e92e" />
 
 
 ## Splits setup
 
-Once you have your run/Test(I'll load up the droks split). We'll load the corresponding split. Open Splits-->From File<img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
+Once you know what run or test split you want. Right click Live Splits--> Open Splits-->From File-->Choose your split/.lss file
+
+(I've loaded up the droks split). 
+
+<img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
 
 <img width="270" height="359" alt="image" src="https://github.com/user-attachments/assets/505ed712-d974-437c-8f4a-c9f1c65e4df6" />
 
-Now we will add the script to the splits similarly the way we did to the layout. Edit Splits--> From here you'll see either 
+Now we will add the .asl to the split the same way we did to the layout. Right click Live Splits-->Edit Splits--> From here you'll see either
 
 <img width="91" height="33" alt="image" src="https://github.com/user-attachments/assets/5b445955-1579-40c0-bb3f-9f72490a31da" /> or <img width="168" height="42" alt="image" src="https://github.com/user-attachments/assets/a8d0b4d7-3536-4c20-8f31-f7e6284d96fe" />
 
-Click Activate-->settings or just settingsif already activated. Once again we'll we will browse to the same script (Runners setup)
+Click Activate-->settings or just settingsif already activated. Once again we'll we will browse to the same .asl file in the Runners setup folder.
 
-Now that we've setup live splits we will swap the timer to the Game timer, as the real timer cannot be paused. Pausing happens in towns/during load screens. Right click live splits and go to Compare against-->Game time.
+Now that we've setup live splits, lets swap the timer to the Game Timer. Game Time is used for some of the pause logic listed in the **Settings/Script Behavior section.**
+
+Right click Live Splits-->Compare Against-->Game Time
 
 <img width="347" height="129" alt="image" src="https://github.com/user-attachments/assets/946902fc-6d11-477c-8abe-eb088627be10" />
 
-Thats everything as far as first time setup. I would go ahead and save your split and layout. If you change splits or layout you will need to reattach the script to those places!
+After all that we will go ahead and save your splits and layout.
+
+Right click Live Splits, save splits.
+
+Right click Live Splits, save Layout.
+
+<img width="195" height="426" alt="image" src="https://github.com/user-attachments/assets/1a50df5f-6c89-4e9d-bbf4-2219ba9d9c0c" />
+
+Thats everything as far as first time setup. If you want to understand the script/behavior
 
 Happy Running!
 
 
 ## Settings/Script Behavior
- You can change the settings in the splits layout a little quicker so I would suggest doing it there.
+ You can change the settings in the Splits Editor a little quicker so I would suggest doing that there.
 
 <img width="98" height="24" alt="image" src="https://github.com/user-attachments/assets/24a98b66-d85d-452d-8da2-09e6cd819ee5" /> This will pause the timer when you die and then reset the timer when you zone back into any town.
 
 <img width="134" height="18" alt="image" src="https://github.com/user-attachments/assets/31c7ed57-4eb6-4291-8944-e415adc0ee4c" /> This will enable timer auto reset for your enabled maps. ie lets say you know you aren't making the run in time you can just teleport back to Lions Arch and it will just reset the timer for you.
 
-Some Logic
+Logic
   Timer auto starts on zoning into an explorable. Zoning/teleporting into a town will cause a split/go to the objective. however will pause the game timer. Also pauses game time during load screens.
   
   It will keep going until it runs out of splits and the complete the list. so its fairly flexible if you want to make your own split just add in the explorable and town names in order.
