@@ -22,11 +22,11 @@ Copy this into the Live splits components folder.
 
 <img width="629" height="202" alt="image" src="https://github.com/user-attachments/assets/8d1ad62b-44fb-42a4-8458-1a196c88abba" />
 
-We can now start Live splits.
+Launch\double click Live Splits.
 
 <img width="275" height="76" alt="image" src="https://github.com/user-attachments/assets/d858ea07-f6b0-4781-8c31-97b90af4c3a5" />
 
-This is its default layout. We are going to load the layout I've made to make things easier. Right click the live splits bar. Open Layout--> from file. *feel free to make your own/edit mine after you see how it works*
+That little black bar is the default layout. We are going to load the layout I've made to make things easier. Right click the Live Splits bar, Open Layout--> From File. *(feel free to make your own/edit mine after you see how it works)*
 
 <img width="486" height="443" alt="image" src="https://github.com/user-attachments/assets/9bc5daf1-f265-4fe2-857d-bf3459be77d8" />
 
@@ -34,7 +34,7 @@ Browse to the EXP Tracker folder
 
 <img width="280" height="48" alt="image" src="https://github.com/user-attachments/assets/b96b8e11-876c-4bec-89fc-9bb161d11519" />
 
-You'll see this file here. Open this up.
+You'll see this file here. Double click it or select the .lsl and click open.
 
 <img width="165" height="38" alt="image" src="https://github.com/user-attachments/assets/9389b489-e6e1-4e7c-98a3-3fde570c2840" />
 
@@ -42,51 +42,68 @@ Live splits should look like this now.
 
 <img width="328" height="320" alt="image" src="https://github.com/user-attachments/assets/3c7b29f5-75c2-4251-9154-84c14e38a4d8" />
 
-Now we go to Edit layout--> Layout Settings
+Now we go to Edit layout by Right clicking Live Splits-->Edit Layout
 
 <img width="551" height="355" alt="image" src="https://github.com/user-attachments/assets/b32ff62c-2727-4c69-ac44-a614a7a8b08c" /> --> <img width="96" height="32" alt="image" src="https://github.com/user-attachments/assets/e2394e39-8c15-4097-bb61-4bc1af2f782d" />
 
-Go to this Tab. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> and click Browse. Look for <img width="269" height="39" alt="image" src="https://github.com/user-attachments/assets/23e99918-8313-4f16-bd1b-aa372292d6d7" /> inside the EXP Tracker folder.
+Layout settings will bring you here.
+<img width="297" height="61" alt="image" src="https://github.com/user-attachments/assets/d578197c-ea42-4bf2-bc81-e50a418c3ba2" />
 
-You'll see a bunch of settings come up. <img width="273" height="104" alt="image" src="https://github.com/user-attachments/assets/17a517af-7460-40b9-b9e3-8f3897f35629" />
+Then Go to this Tab. <img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/b0147673-97c5-47a6-9cc8-7a56fef18248" /> and click Browse. Navigate to the .asl file inside the EXP Tracker folder. <img width="269" height="39" alt="image" src="https://github.com/user-attachments/assets/23e99918-8313-4f16-bd1b-aa372292d6d7" /> 
 
-Before continuing onward you'll need to know what challenge you'll be doing. (or just pick one as an example and decied later)
- By default with neither legendary survivor/combo enabled(check-boxed fill in). This script will mark every level 2-20  ie Time to X Level.
+You'll see a bunch of settings come up. If they show up the .asl file is loaded correctly. We won't change any settings until we load the split/challenge. I've matched which Challenge go with what splits and what it calculates each split to be.
 
-<img width="133" height="29" alt="image" src="https://github.com/user-attachments/assets/f56bc82d-7b00-4586-882e-9172f600d606" />
-<img width="318" height="128" alt="image" src="https://github.com/user-attachments/assets/06ce154c-2b09-4728-99ae-686c504fad3b" />
+<img width="273" height="104" alt="image" src="https://github.com/user-attachments/assets/17a517af-7460-40b9-b9e3-8f3897f35629" />
 
-For this setting use these splits <img width="124" height="31" alt="image" src="https://github.com/user-attachments/assets/256c17a8-1aeb-4c6f-aad8-86205cd90f44" /> or <img width="124" height="31" alt="image" src="https://github.com/user-attachments/assets/3e758fe3-7421-4e51-95f6-65c80cb4e028" />
-
-When Legendary Survivor is enabled. this will move the milestones in the script to only 3. r1/r2/r3 survivor. 
-
-ie only use with <img width="168" height="31" alt="image" src="https://github.com/user-attachments/assets/a53b903b-5488-47ca-b62b-504a1c04313c" />
-
-Combo enabled will combine both the default behavior and add on the r2/r3 survivor ranks. 
-
-<img width="164" height="33" alt="image" src="https://github.com/user-attachments/assets/6258305e-a197-4a0f-9b9e-65a73da02539" /> or <img width="156" height="30" alt="image" src="https://github.com/user-attachments/assets/3a3090b7-0924-4a64-a71f-ff2f6002ad02" />
-
-
+| | Default | Legendary Survivor | Combo |
+|-----|----|-----|----|
+|What it forces splits at| Level 2-20/LDOA | Rank 1-3 Survivor only | Level 2-20+r2-3 Survivor |
+|Settings|  <img width="255" height="40" alt="image" src="https://github.com/user-attachments/assets/f8acd1d4-635a-4113-853a-fe994676d69d" /> | <img width="270" height="44" alt="image" src="https://github.com/user-attachments/assets/7e8fcd6f-69f8-43c1-99ae-6f672cd61b73" /> |<img width="264" height="39" alt="image" src="https://github.com/user-attachments/assets/8cb6a968-281f-40f3-a769-3caf26fff56b" /> |
+|What split files (.lss) work with these settings| <img width="127" height="40" alt="image" src="https://github.com/user-attachments/assets/835f3093-64ab-4cf3-b507-8a61b5d0f1d7" /><img width="117" height="28" alt="image" src="https://github.com/user-attachments/assets/546e2d23-700e-46dd-bca3-347ea2edc060" /> | <img width="167" height="33" alt="image" src="https://github.com/user-attachments/assets/6dee589a-34b5-4932-9f76-8c9ba8979d28" /> | <img width="136" height="28" alt="image" src="https://github.com/user-attachments/assets/0cbafe52-f6c1-4534-8eb6-f80bcd0c443f" /> <img width="138" height="32" alt="image" src="https://github.com/user-attachments/assets/7a33d6a0-6432-4ce2-acc6-0410b044e24c" /> |
+| Expected number of Splits/Milestones | <img width="505" height="58" alt="image" src="https://github.com/user-attachments/assets/d0c25659-fc48-4633-a147-9dc53acd55a3" /> | <img width="240" height="27" alt="image" src="https://github.com/user-attachments/assets/e5f48633-d3e4-422e-8605-2b431ac9d2ca" /> | <img width="500" height="55" alt="image" src="https://github.com/user-attachments/assets/db86e629-5085-44fd-9a4d-049827bc0e18" /> |
 
 ## EXP Tracker Splits setup
 
-Once you have your challenge selected. We'll load the corresponding split. Open Splits-->From File<img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
+Lets Load our split now. If you get confused refer to the chart above to match your settings after you load the split. *(To get back to settings, right click--> Edit Splits-->Settings)*
+
+Once you have your challenge or example selected. We'll load the corresponding split. Right click Live Splits--> Open Splits-->From File-->Choose your split/.lss file <img width="430" height="59" alt="image" src="https://github.com/user-attachments/assets/552ff30f-0da8-4f1e-b4fc-dcee7c3c4c9d" />
+
+<img width="211" height="141" alt="image" src="https://github.com/user-attachments/assets/c76540e3-c971-46ef-85e7-11eda481ad51" />
+
+I've loaded the LDOA_only split as an example.
 
 <img width="329" height="311" alt="image" src="https://github.com/user-attachments/assets/7b78607c-042c-4de3-8d4e-8c17d829cfc4" />
 
-Now we will add the script to the splits similarly the way we did to the layout. Edit Splits--> From here you'll see either 
+Now we will add the .asl to the split the same way we did to the layout. Right Click Live Splits-->Edit Splits--> From here you'll see either 
 
 <img width="91" height="33" alt="image" src="https://github.com/user-attachments/assets/5b445955-1579-40c0-bb3f-9f72490a31da" /> or <img width="168" height="42" alt="image" src="https://github.com/user-attachments/assets/a8d0b4d7-3536-4c20-8f31-f7e6284d96fe" />
 
-Click Activate-->settings or just settingsif already activated. Once again we'll we will browse to the same script (EXP tracker)
+Click Activate-->settings or just settings if already activated. Once again we'll we will browse to the same .asl file in EXP Tracker folder.
+
+
+Refer back to the chart above to match the loaded split with the correct settings! 
+
+Here is the LDOA_only split as an example. So timer starts and you are level 1, once you hit lvl 2 the split moves to the level 3 split.
+<img width="133" height="29" alt="image" src="https://github.com/user-attachments/assets/f56bc82d-7b00-4586-882e-9172f600d606" />
+<img width="318" height="128" alt="image" src="https://github.com/user-attachments/assets/06ce154c-2b09-4728-99ae-686c504fad3b" />
+With these settings. *(Default)*
+<img width="278" height="71" alt="image" src="https://github.com/user-attachments/assets/4be4e315-dea0-4642-a643-9f63d178678c" />
+
 
 Now that we've setup live splits we will swap the timer to the Game timer, as the real timer cannot be paused. Pausing happens in towns/during load screens. Right click live splits and go to Compare against-->Game time.
 
 <img width="347" height="129" alt="image" src="https://github.com/user-attachments/assets/946902fc-6d11-477c-8abe-eb088627be10" />
 
-Thats everything as far as first time setup. I would go ahead and save your split and layout. If you change splits or layout you will need to reattach the script to the new split/layout!
+Currently the splits are setup in a way to track time to the level listed. Legendary Survivor will go to the next split (rank 2) after you hit rank 1 etc.. 
+if you wish to track time at level instead. you can edit the splits and subtract 1 level from each section (except for the legendary survivor) and have the splits label 1-19.
+When you change your splits or layout you will need to reattach the script to the new split/layout!
 
+After all that we will go ahead and save your splits and layout. This is a good time if you wish to create you own layout and splits, do a save as for each instead.
+Right click Live Splits, save splits. 
 
+Right click Live Splits, save Layout.
+
+Thats everything as far as first time setup. Enjoy!
 
 </details>
 
