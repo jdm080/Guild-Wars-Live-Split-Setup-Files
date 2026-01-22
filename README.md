@@ -93,11 +93,11 @@ With these settings. *(Default)*
 <img width="278" height="71" alt="image" src="https://github.com/user-attachments/assets/4be4e315-dea0-4642-a643-9f63d178678c" />
 
 
-Now that we've setup live splits, lets swap the timer to the Game Timer. Game Timer Game Timer is used for some of the pause logic listed in the **EXP Tracker Logic/thoughts** section. Right click Live Splits-->Compare Against-->Game Time
+Now that we've setup live splits, lets swap the timer to the Game Timer. Game Time is used for some of the pause logic listed in the **EXP Tracker Logic/thoughts** section. Right click Live Splits-->Compare Against-->Game Time
 
 <img width="347" height="129" alt="image" src="https://github.com/user-attachments/assets/946902fc-6d11-477c-8abe-eb088627be10" />
 
-After all that we will go ahead and save your splits and layout. This is a good time if you wish to create you own layout and splits, use save as instead.
+After all that we will go ahead and save your splits and layout.
 
 Right click Live Splits, save splits. 
 
@@ -115,6 +115,8 @@ Currently the splits are setup in a way to track time to the level listed. Legen
 if you wish to track time at level instead. you can edit the splits and subtract 1 level from each section (except for the legendary survivor) and have the splits label 1-19.
 When you change your splits or layout you will need to reattach the script to the new split/layout! This will not be able to tell how many deaths you have or any deaths that happen when the timer is not running unfortunatly.
 Only pauses timer when you log out of the character and during loading screens.
+
+---------------------------------
 
 ## ASL Var Viewer - What it does.
 
@@ -151,11 +153,6 @@ Information--> ASL Var Viewer <img width="351" height="31" alt="image" src="http
 You should have a new one in the editor list. *(Add as many as you want to show)
 
 <img width="170" height="111" alt="image" src="https://github.com/user-attachments/assets/e094283f-1cfa-4496-a6fc-c8aea4400d16" />
-
-
-
-
- 
 
 Thats everything as far as first time setup. Enjoy!
 
@@ -194,7 +191,7 @@ You'll see this file here. Open this up.
 
 <img width="153" height="33" alt="image" src="https://github.com/user-attachments/assets/230f3a05-275a-4046-a46e-369ea5f4896d" />
 
-Live splits should look like this now.
+Live Splits should look like this now.
 
 <img width="274" height="376" alt="image" src="https://github.com/user-attachments/assets/806aa840-8213-4583-9c76-1c48b2e736ba" />
 
