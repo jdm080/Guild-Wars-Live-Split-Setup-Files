@@ -1,3 +1,12 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e790c78b-772e-4a0c-b0b5-2809cd0bd372" />
+
+Come Join us! https://discord.gg/GWR
+
+
+
+
+
+
 # Guild-Wars-Live-Split-Setup-Files
 <details>
   <summary>Exp tracker/Survivor setup</summary> 
