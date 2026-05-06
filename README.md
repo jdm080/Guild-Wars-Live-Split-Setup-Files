@@ -1,7 +1,3 @@
-<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/e790c78b-772e-4a0c-b0b5-2809cd0bd372" />
-
-
-Come Join us in Discord! [Guild Wars Revival](https://discord.gg/GWR)
 
 # Guild-Wars-Live-Split-Setup-Files
 <details>
